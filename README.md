@@ -27,4 +27,5 @@ Most popular movies on https://www.themoviedb.org/, using the **movie DB API**
 
 Popularity Based Filtering
 
-![Imgur](https://imgur.com/lD8dNA0)
+<img src="https://github.com/Simran79/Movie-Recommendation-Web-App/blob/main/movie_rec/static/img/Screenshots/BestRated.PNG" width=700/>
+
