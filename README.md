@@ -9,19 +9,19 @@ Deployed at - **Heroku** : https://hybrid-movie-recommender-app.herokuapp.com/
 
 #### Home :
 
-<img src="https://github.com/GitTeaching/Flask-Hybrid-MovieRec-App-Deployement/blob/master/movie_rec/static/img/Screenshots/Home.png" width=700/>
+<img src="https://github.com/Simran79/Movie-Recommendation-Web-App/blob/main/movie_rec/static/img/Screenshots/Home.png" width=700/>
 
 #### Recommendation :
 
 Content-Based Filtering  and  Rate/Vote Based Filtering
 
-<img src="https://github.com/GitTeaching/Flask-Hybrid-MovieRec-App-Deployement/blob/master/movie_rec/static/img/Screenshots/Recommended.png" width=700/>
+<img src="https://github.com/Simran79/Movie-Recommendation-Web-App/blob/main/movie_rec/static/img/Screenshots/Recommended.png" width=700/>
 
 #### Trending Now :
 
 Most popular movies on https://www.themoviedb.org/, using the **movie DB API**
 
-<img src="https://github.com/GitTeaching/Flask-Hybrid-MovieRec-App-Deployement/blob/master/movie_rec/static/img/Screenshots/TrendingNow.png" width=700/>
+<img src="https://github.com/Simran79/Movie-Recommendation-Web-App/blob/main/movie_rec/static/img/Screenshots/TrendingNow.png" width=700/>
 
 #### Best Rated : 
 
